@@ -6,6 +6,10 @@ https://electrica.ual.es/spacor
 https://doi.org/10.1109/TPWRD.2021.3133069
 
 ## EXAMPLES
+
 ### Case 1: Parallel RL load with Sinusoidal source
+
+[Case 1: Parallel RL load with Sinusoidal source](case1.md)
+
 Given a parallel RL circuit as in Figure 1, it is supplied with any voltage giving rise to a current. Through some electric meter, you have access to both v and i. It is desired to estimate the value of R and L for every time instant, assuming that these values can change over time. Of course, Kirchhoff's first law, or KCL, is satisfied,
  
