@@ -20,7 +20,9 @@ and proceed to calculate the oscillating plane,
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=K_{osc} = y \wedge y' = (v^2 - \check{v}v')\sigma_{12} + (\check{v}i`-iv)\sigma_{23} + (iv'-vi')\sigma_{31}"></p>
 
-Following the reasoning of finding the ratio between  and , as well as  and  the value of  and  is now,
+Following the reasoning of finding the ratio between <img src="https://render.githubusercontent.com/render/math?math=\sigma{13}">  and <img src="https://render.githubusercontent.com/render/math?math=\sigma{12}"> , as well as <img src="https://render.githubusercontent.com/render/math?math=\sigma{31}">  and <img src="https://render.githubusercontent.com/render/math?math=\sigma{12}">  the value of <img src="https://render.githubusercontent.com/render/math?math=\G">  and <img src="https://render.githubusercontent.com/render/math?math=\Gamma">  is now,
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=G = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\Gamma = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
+
+[Matlab simulation for case 1](matlabCase1.md)
