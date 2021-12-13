@@ -7,6 +7,6 @@ https://doi.org/10.1109/TPWRD.2021.3133069
 
 ## EXAMPLES
 
-[Case 1: Parallel RL load with Sinusoidal source](case1.md)
+[Case 1: Parallel RL load with Sinusoidal source](Case1.md)
 
  
