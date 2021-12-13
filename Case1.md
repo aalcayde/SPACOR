@@ -17,6 +17,10 @@ In differential geometry, it is usual to define a local coordinate system associ
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=y = v\sigma_1 + \check{v}\sigma_2 + i \sigma_3"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=y' = v'\sigma_1 + v\sigma_2 + i' \sigma_3"></p>
 and proceed to calculate the oscillating plane,
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=K_{osc} = y \wedge y' = (v^2 - \check{v}v')\sigma_{12} + (\check{v}i`-iv)\sigma_{23} + (iv'-vi')\sigma_{31}  width="25%"></p>
+
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=K_{osc} = y \wedge y' = (v^2 - \check{v}v')\sigma_{12} + (\check{v}i`-iv)\sigma_{23} + (iv'-vi')\sigma_{31}"></p>
 
 Following the reasoning of finding the ratio between  and , as well as  and  the value of  and  is now,
+
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=G = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\Gamma = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
