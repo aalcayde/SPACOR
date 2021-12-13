@@ -1,7 +1,9 @@
 
 ## Case 2: Parallel RL load switching the resitive part with Sinusoidal source
 
-Given a parallel RL circuit with a switch placed before of the , it is supplied with any voltage giving rise to a current. Through some electric meter, you have access to both v and i. It is desired to estimate the value of R and L for every time instant, assuming that these values can change over time. The interval of switching are  switch off,  switch on,  switch off,  switch and, finally,  switch off.
+Given a parallel RL circuit with a switch placed before of the **R**, it is supplied with any voltage giving rise to a current. Through some electric meter, you have access to both v and i. It is desired to estimate the value of R and L for every time instant, assuming that these values can change over time. The interval of switching are <img src="https://render.githubusercontent.com/render/math?math=0 < t < 2"> switch off, <img src="https://render.githubusercontent.com/render/math?math=2 < t < 6">  switch on,  <img src="https://render.githubusercontent.com/render/math?math=6 < t < 13"> switch off,  <img src="https://render.githubusercontent.com/render/math?math=13 < t < 18"> switch and, finally, <img src="https://render.githubusercontent.com/render/math?math=18 < t < 20"> switch off.
+
+
 
 Applying the Kirchhoff's first law, or KCL,
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=i = i_G + i_L = G_v + \frac{1}{L}\int v = Gv +\Gamma \check{v}"></p>
@@ -23,4 +25,4 @@ Following the reasoning of finding the ratio between <img src="https://render.gi
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=G = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\Gamma = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
 
-[Matlab simulation for case 1](examples/matlabCase1.md)
+[Matlab simulation for case 2](examples/matlabCase2.md)
