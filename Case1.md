@@ -25,4 +25,4 @@ Following the reasoning of finding the ratio between <img src="https://render.gi
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=G = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\Gamma = \frac{iv-\check{v}i'}{v^2 -\check{v}v'}"></p>
 
-[Matlab simulation for case 1](matlabCase1.md)
+[Matlab simulation for case 1](examples/matlabCase1.md)
