@@ -21,5 +21,10 @@ https://doi.org/10.1109/TPWRD.2021.3133069
 ## EXAMPLES
 
 [Case 1: Parallel RL load with Sinusoidal source](Case1.md)
-
+[Case 2: Parallel RL load switching the resitive part with Sinusoidal source](Case2.md)
+[Case 3: Serie RL with Sinusoidal source](Case3.md)
+[Case 4: Mixed series and parallel circuit with sinusoidal source](Case4.md)
+[Case 5: Parallel RL with piecewise non-linear inductor](Case5.md)
+[Case 6: Parallel RLC with switching capacitor and resistor](Case6.md)
+[Case 7: Series RLC with switching capacitor and resistor](Case7.md)
  
