@@ -1,3 +1,11 @@
+# Matlab simulation for case 3
+## Serie RL with Sinusoidal source
+<img src="https://electrica.ual.es/spacor/images/spacorcasethree_simulation.png" width="100%">
+
+Matlab Code
+Herein, you can find the code for simulation purposes.
+
+```matlab                   
 %**************************************************************************
 %  SPACOR Space Vectors for Parameter Identification of Non-Linear Circuits
 %  https://electrica.ual.es/spacor
@@ -54,4 +62,3 @@ text(0.010,1.3,'$R(t)$','interpreter','latex','fontsize',18);
 set(gca,'FontSize',20,'TickLabelInterpreter','latex');
 
 suptitle('Case 3: Serie RL with Sinusoidal source');
-
